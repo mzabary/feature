@@ -1,0 +1,9 @@
+data={'First' : 'Michael',
+      'Last' :  'Zabary',
+      'Age' : 64,
+      'Emails' : {'gmail':'mzabary@gmail.com',
+                 'aol':'mzabary@aol.com',
+                  'yahoo':'mzabary@yahoo.com'},
+      'languages' : { 'markup': ['html','xml'],
+                     'programing': ['C','Python','Java']}
+      }

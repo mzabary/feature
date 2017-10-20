@@ -1,0 +1,43 @@
+#Key Value Pair
+
+Fruit: Apple
+Vegetable: Carrot
+Liquid: Water
+Meet: Chicken
+
+#Array/List  is ordered collection
+#Array/List each item start with -
+
+Fruits:
+-   Orange
+-   Apple
+-   Banana
+
+Vegetable:
+-   Carrot
+-   Cauliflower
+-   Tomato
+
+#Dictionary/Map is unordered collection
+#-The order is not important
+Banana:
+   Calories: 105
+   Fat: 0.4 g
+   Carb: 27 g
+Grapes:
+   Calories: 62
+   Fat: 0.3 g
+   Carb: 16 g
+
+#Key Value/Dictionary/List
+#-The list order is matter
+
+Fruits:
+  - Banana:
+      Calories: 105
+      Fat: 0.4 g
+      Carb: 27 g
+  - Grapes:
+      Calories: 62
+      Fat: 0.3 g
+      Carb: 16 g
